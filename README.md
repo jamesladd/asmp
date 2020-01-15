@@ -20,7 +20,7 @@ To run tests with coverage
 
 # Notes
 
-The full end-to-end requirements have NOT beeing implemented.
+The full end-to-end requirements have NOT been implemented.
 I don't have an ACCESS_KEY to both of the Weather Services and I had asked for these from Assembly.
 Completing would take about 1hr when I have these keys. Please see shared/providers/weather-providers.js 
 line 26. 
