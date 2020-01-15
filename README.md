@@ -2,7 +2,7 @@
 
 # Usage
 
-- unzip into folder.
+- clone repo.
 - cd to that folder.
 - `cp .env.example .env`
 - `npm install`
